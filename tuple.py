@@ -1,6 +1,4 @@
-# ID: 20CE031
-#NAME: RITU GODHASARA
-
+#20CE031 RITU GODHASARA
 ## a.
 tuple1 = (1, 2, 3, 4)
 tuple2 = ("Hello", "World")

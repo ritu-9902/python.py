@@ -1,6 +1,4 @@
-# ID:20CE031
-#NAME: RITU GODHASARA
-
+#20CE031 RITU GODHASARA
 ## a.
 SET = {'H', 'e', 'l', 'l', 'o'}
 SET.add('!')
@@ -44,4 +42,3 @@ if __name__== "__main__":
     tuple1 = (12, 20, "ABC", 3.4)
     dictionary1 = {"ABC", 1, 3.4, "PQR"}
     intersection(list1, tuple1, dictionary1)
-    
